@@ -38,4 +38,6 @@ To set up and run the database on your local MySQL server:
 ## 🔗 ERD (Entity Relationship Diagram)
 
 Here is the visual ERD of the database structure:
-- <a href="https://github.com/Bossy-V-Osinde/DataBase-Project/blob/main/Database%20Relationships.jpg">E-commerce Database ERD</a>
+- <a href="https://github.com/Bossy-V-Osinde/Clinic-Booking-System/blob/main/ERD.jpg">Clinic Booking System ERD</a>
+
+![image](https://github.com/user-attachments/assets/e261f41b-ccb6-45fe-a985-25e8d020b1a9)
